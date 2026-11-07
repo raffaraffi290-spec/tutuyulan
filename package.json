@@ -1,0 +1,13 @@
+{
+  "name": "tuyul-online",
+  "version": "1.0.0",
+  "description": "Game Kartu Tuyulan / Liar Multiplayer & Offline Bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.1",
+    "socket.io": "^4.7.5"
+  }
+}
